@@ -3,3 +3,4 @@ opencv_python==4.10.0.84
 ultralytics==8.3.5
 flask
 Flask-Session
+gunicorn
